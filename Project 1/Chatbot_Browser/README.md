@@ -41,4 +41,4 @@ project-name/
 
 ## Author
 
-Made by **Nileshwar MaddhesiYA**
+Made by **Nileshwar Maddhesiya**
