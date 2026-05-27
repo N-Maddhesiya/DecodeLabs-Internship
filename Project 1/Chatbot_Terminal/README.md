@@ -50,3 +50,7 @@ Bot: Artificial Intelligence is the simulation of human intelligence by machines
 
 You: bye
 Bot: Goodbye! Have a great day!
+
+## Author
+
+Made by **Nileshwar Maddhesiya**
